@@ -1,0 +1,2 @@
+# DevCore
+paginita
